@@ -41,7 +41,7 @@ Twitch'teki yayınlara gelirseniz, bunlar üzerine sohbet etme ve varsa sorular�
 https://twitch.tv/lunizz
 
 Ayrıca yakın zamanda bununla ilgili bir video çekip Youtube kanalıma koymayı planlıyorum. Koyduğumda burayı güncellerim.
-![top10](https://pbs.twimg.com/media/Eb8MV7dWoAAKWZi?format=jpg&name=large)  
+![!top20](https://user-images.githubusercontent.com/100738107/202588490-7413b40f-e2ba-43eb-8871-253dd9775147.jpg)  
 
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
 
